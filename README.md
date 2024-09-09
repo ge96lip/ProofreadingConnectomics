@@ -1,1 +1,2 @@
 # ProofreadingConnectomics
+This repository contains the research I conducted on investigating automated proofreading tools for error detection and correction in neuronal segmentation. Within this repository, you will find both the presentation and the comprehensive report detailing the study.
